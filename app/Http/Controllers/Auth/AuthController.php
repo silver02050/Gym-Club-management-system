@@ -61,9 +61,9 @@ class AuthController extends Controller
 
         return redirect('/dashboard');
     }
-
+    
     /**
-     * Show the application login form.
+     * Show the application login form
      *
      * @return Response
      */
